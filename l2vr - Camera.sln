@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "l2vr - Camera", "l2vr - Camera.csproj", "{518AE459-5CBE-5C39-70A7-7C4B9509307F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "l2vr - Camera.Editor", "l2vr - Camera.Editor.csproj", "{0599E47B-120B-097C-D6AB-D1E5CC09CB38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{518AE459-5CBE-5C39-70A7-7C4B9509307F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518AE459-5CBE-5C39-70A7-7C4B9509307F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518AE459-5CBE-5C39-70A7-7C4B9509307F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518AE459-5CBE-5C39-70A7-7C4B9509307F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0599E47B-120B-097C-D6AB-D1E5CC09CB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0599E47B-120B-097C-D6AB-D1E5CC09CB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0599E47B-120B-097C-D6AB-D1E5CC09CB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0599E47B-120B-097C-D6AB-D1E5CC09CB38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
